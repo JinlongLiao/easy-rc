@@ -1,0 +1,2 @@
+io.github.jinlongliao.easy.rc.core.compiler.impl.javassist.JavassistCompiler
+io.github.jinlongliao.easy.rc.core.compiler.impl.jdk.JdkCompiler
